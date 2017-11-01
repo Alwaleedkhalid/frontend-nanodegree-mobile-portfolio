@@ -16,8 +16,7 @@ i used 000webhost for speed test
 
 index
 
-https://alwaleedkhalid2017.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master/frontend-nanodegree-mobile-portfolio-master/index.html
-
+https://alwaleedkhalid2017.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master-afterResize/frontend-nanodegree-mobile-portfolio-master/index.html
 pizza
 
-https://alwaleedkhalid2017.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master/frontend-nanodegree-mobile-portfolio-master/views/pizza.html
+https://alwaleedkhalid2017.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master-afterResize/frontend-nanodegree-mobile-portfolio-master/views/pizza.html
